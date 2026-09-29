@@ -8,7 +8,6 @@
 <p align="center">
   <a href="mailto:irani.arya00@gmail.com"><img src="https://img.shields.io/badge/Email-irani.arya00@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/aria-irani-7a9563261"><img src="https://img.shields.io/badge/LinkedIn-Aria%20Irani-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/drive/folders/16IQsA1VIEQMihnZebqVT_On0AmO6vvXv"><img src="https://img.shields.io/badge/Portfolio-View%20Work-4285F4?style=flat&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
