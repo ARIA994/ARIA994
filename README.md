@@ -78,4 +78,3 @@ I'm open to freelance projects, collaborations, and founding-team opportunities 
 
 📬 [irani.arya00@gmail.com](mailto:irani.arya00@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/aria-irani-7a9563261)
-📁 [Portfolio](https://drive.google.com/drive/folders/16IQsA1VIEQMihnZebqVT_On0AmO6vvXv)
