@@ -65,6 +65,13 @@ Based in **Berlin**, I work with early-stage startups and growth teams to elimin
 
 ---
 
+### [CRM Hygiene Agent — Automated Data Quality & Reporting](https://github.com/ARIA994/crm-hygiene-agent)
+> Weekly agent that audits a CRM for duplicates, incomplete records, and stale deals, writes an AI-generated summary report, emails it to the sales manager, and serves a live on-demand dashboard.
+
+`n8n` `Supabase` `Claude` `SQL` `Gmail API`
+
+---
+
 ## Get in Touch
 
 I'm open to freelance projects, collaborations, and founding-team opportunities in the AI/automation space.
