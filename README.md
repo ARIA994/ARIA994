@@ -43,6 +43,20 @@ Based in **Berlin**, I work with early-stage startups and growth teams to elimin
 
 ## Featured Projects
 
+### [Sales Knowledge Agent — RAG Assistant for Sales Reps](https://github.com/ARIA994/sales-knowledge-agent)
+> Question-answering agent built on a company's own documents. Cites the file and section for every fact, refuses when the answer isn't in the documents, and handles follow-up questions with per-user conversation memory.
+
+`n8n` `Supabase` `pgvector` `OpenAI Embeddings` `Claude` `Google Drive`
+
+---
+
+### [CRM Hygiene Agent — Automated Data Quality & Reporting](https://github.com/ARIA994/crm-hygiene-agent)
+> Weekly agent that audits a CRM for duplicates, incomplete records, and stale deals, writes an AI-generated summary report, emails it to the sales manager, and serves a live on-demand dashboard.
+
+`n8n` `Supabase` `Claude` `SQL` `Gmail API`
+
+---
+
 ### [A.L.I.S. — AI Lead Intelligence System](https://github.com/ARIA994/ALIS-Lead-Intelligence-System)
 > AI-powered lead scoring engine for the DACH market. Detects 9 recruiting failure signals via LinkedIn and Apollo data, scoring companies Hot / Warm / Cold through a weighted signal engine.
 
@@ -61,13 +75,6 @@ Based in **Berlin**, I work with early-stage startups and growth teams to elimin
 > End-to-end automated visual campaign generation pipeline. Translates brand strategy and aesthetic rules into autonomous content production. Bachelor's thesis artifact — scored 90/100.
 
 `n8n` `Generative AI APIs` `Cloudinary` `API Orchestration`
-
----
-
-### [CRM Hygiene Agent — Automated Data Quality & Reporting](https://github.com/ARIA994/crm-hygiene-agent)
-> Weekly agent that audits a CRM for duplicates, incomplete records, and stale deals, writes an AI-generated summary report, emails it to the sales manager, and serves a live on-demand dashboard.
-
-`n8n` `Supabase` `Claude` `SQL` `Gmail API`
 
 ---
 
